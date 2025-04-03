@@ -54,8 +54,8 @@ You can complete the guided scenario before there are any devices in the group. 
 ## Step 1 - Introduction
 
 1. Sign in to the [Microsoft Intune admin center](https://go.microsoft.com/fwlink/?linkid=2109431) as a user with the Intune Service Administrator role.
-2. Select **Devices** > **Windows 365** (under **Overview**) > **Windows 365 Boot** (under Windows 365 guides).
-3. On the **Introduction** page, select **Next: Basics**.
+2. Select **Troubleshooting + support** > **Guided scenarios (preview)**. Start the Windows 365 Boot guided scenario.
+4. On the **Introduction** page, select **Next: Basics**.
 
 ## Step 2 - Basics
 
